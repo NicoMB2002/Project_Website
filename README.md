@@ -1,2 +1,2 @@
-# Project_Website
-ProjectWebsite
+# game-topic
+Game sales website for Internet Programming class
